@@ -1,0 +1,9 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C3,22p,C_0402_1005Metric,77.675,-65.225,-90.0,top
+C4,22p,C_0402_1005Metric,72.175,-65.205,-90.0,top
+J7,Conn_01x03_Female,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,60.0,-116.5,180.0,top
+R1,10k,R_1206_3216Metric,45.0375,-79.5,0.0,top
+R2,10k,R_1206_3216Metric,45.0,-98.17,0.0,top
+R13,100k,R_1206_3216Metric,99.0375,-87.5,180.0,top
+uC1,ATmega328-A,TQFP-32_7x7mm_P0.8mm,77.5,-77.5,-90.0,top
+Y1,16MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,74.925,-65.725,180.0,top
